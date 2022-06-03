@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xa6996A2EDeaD2aBa0B64b9FB0be900C488D223c9",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xa6996a2edead2aba0b64b9fb0be900c488d223c9",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Maximus delirius",
+  "SYMBOL": "MaxDel",
+  "MAX_SUPPLY": 200,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/maximus-delirius-v2",
+  "SHOW_BACKGROUND": true
+}
